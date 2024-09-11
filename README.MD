@@ -1,6 +1,6 @@
 # Nigerian Start-up Ecosystem Analysis
 
-This repository presents a detailed study aimed at understanding the factors that shape the Nigerian start-up ecosystem. Using Twitter data, the study implements hashtag-based topic modeling and unsupervised sentiment analysis with BERT to identify and analyze key factors relevant to the entrepreneurial environment in Nigeria.
+This repository presents a detailed study to understand the factors that shape the Nigerian start-up ecosystem. Using Twitter data, the study implements hashtag-based topic modeling and unsupervised sentiment analysis with BERT to identify and analyze key factors relevant to the entrepreneurial environment in Nigeria.
 
 ## Project Structure
 
@@ -24,4 +24,4 @@ The goal of this study is to identify the factors that influence the Nigerian st
 
 Hashtag-based Topic Modeling: To extract meaningful and interpretable topics from tweets.
 Unsupervised Sentiment Analysis using BERT: To assess the sentiment surrounding the identified factors.
-The study provides valuable insights for stakeholders and investors by uncovering key aspects of the start-up ecosystem, particularly in areas like funding, support, and challenges.
+The study provides valuable insights for stakeholders and investors by uncovering key aspects of the start-up ecosystem, particularly in funding, support, and challenges.
