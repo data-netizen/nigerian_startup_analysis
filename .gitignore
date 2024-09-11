@@ -1,0 +1,6 @@
+# Ignore data files
+datasets/*
+data/*
+
+# Ignore virtual environments
+.venv/
